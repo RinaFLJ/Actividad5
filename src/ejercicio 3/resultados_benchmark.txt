@@ -1,0 +1,386 @@
+-------------------------------------------------------
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+RESUMEN DE MÉTRICAS EXPERIMENTALES
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-
+Procesos | Tiempo (s) | Speedup (S_p) | Eficiencia (E_p)
+   1     |   16.0932  |      1.0000   |     1.0000
+   2     |   10.8741  |      1.4800   |     0.7400
+   4     |    5.7121  |      2.8174   |     0.7043
+-

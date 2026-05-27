@@ -1,0 +1,40 @@
+version: '3.8'
+
+services:
+  # Servicio 1: Base de datos PostgreSQL
+  db:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: utem
+      POSTGRES_PASSWORD: password123
+      POSTGRES_DB: telemetria
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    networks:
+      - data_net
+
+  # Servicio 2: Nuestro script de análisis en Python
+  python_app:
+    build: .
+    depends_on:
+      - db
+    volumes:
+      - .:/app
+    environment:
+      - DB_USER=utem
+      - DB_PASS=password123
+      - DB_HOST=db
+      - DB_NAME=telemetria
+    networks:
+      - data_net
+
+# Definición del Volumen Persistente
+volumes:
+  pgdata:
+
+# Definición de la Red Interna
+networks:
+  data_net:
+    driver: bridge

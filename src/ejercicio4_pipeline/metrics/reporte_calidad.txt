@@ -1,0 +1,12 @@
+{
+    "conexiones": {
+        "duplicados_eliminados": 5,
+        "nulos_eliminados": 6,
+        "rangos_invalidos_ping": 693
+    },
+    "eventos": {
+        "categorias_invalidas": 1,
+        "fechas_futuras": 1,
+        "claves_inconsistentes": 449
+    }
+}
